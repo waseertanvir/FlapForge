@@ -1,0 +1,10 @@
+# Build output
+cmake-build-*/
+build/
+
+# IDE
+.idea/
+
+# Local backups
+*.bak
+*.bak-*
